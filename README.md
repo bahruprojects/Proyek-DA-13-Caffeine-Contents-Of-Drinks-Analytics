@@ -2,7 +2,7 @@
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/875844ac-4ca8-47c4-804e-2fb2c57ef79a?s=nfLVmQZvr78).
 ### Tools: 
-Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation)
+Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation).
 ### Dataset: 
 [Link](https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks).
 ### Description:
